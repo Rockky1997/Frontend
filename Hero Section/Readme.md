@@ -5,6 +5,9 @@
 
  ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Travel.png) 
 
+ [Design](www.behance.net/gallery/175432065/TOURS-OF-MUMBAI)
+ [Hire me](https://fueler.io/ramc/bombay-dairies-tours-of-mumbai)
+
 ## color palettes
    1. primary - #E2EBD0
    2. secondary - #CE2727
@@ -44,6 +47,13 @@
    |:--:| 
    |*Image 2*|
 
+   
+
 # Social Link
-    [Behace](https://www.behance.net/gallery/175432065/TOURS-OF-MUMBAI)    
+
+   [behace](https://www.behance.net/ramchakraborty)
+   [Twitter](https://twitter.com/ram_chakra1997)
+   [linkedin](https://www.linkedin.com/in/ramesh-chakraborty-ba40b6282/)
+   [Github](https://github.com/Rockky1997)
+   [Fueler](https://fueler.io/ramc)
    
