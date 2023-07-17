@@ -28,5 +28,15 @@
    1. b1 - Read more
    2. b2 - Book Now
 
-## other title
+## Other title
   Follow us on Social Media
+
+# Layout Grid
+   ![layout grid](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/layout.png)
+
+# images used in Project
+
+    ![image used 1](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img1.png)
+    
+    ![image used 2](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img2.png)
+
