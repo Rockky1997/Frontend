@@ -51,9 +51,9 @@
 
 # Social Link
 
-   [behace](https://www.behance.net/ramchakraborty)<br />
-   [Twitter](https://twitter.com/ram_chakra1997)<br />
-   [linkedin](https://www.linkedin.com/in/ramesh-chakraborty-ba40b6282/)<br />
-   [Github](https://github.com/Rockky1997)<br />
-   [Fueler](https://fueler.io/ramc)
+   Follow/hire me over [behace](https://www.behance.net/ramchakraborty)<br />
+   Follow me over [Twitter](https://twitter.com/ram_chakra1997)<br />
+   connect me over [linkedin](https://www.linkedin.com/in/ramesh-chakraborty-ba40b6282/)<br />
+   checkout me over [Github](https://github.com/Rockky1997)<br />
+   checkout/hire me over [Fueler](https://fueler.io/ramc)
    
