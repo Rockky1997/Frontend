@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+/* color variables */
+:root{
+    --primary : #E2EBD0;
+   --secondary : #CE2727;
+   --font-color : #1E1E1E;
+}
+
+
+/* Hero Section Start */
+.hero{
+    width: 100%;
+    min-height:100vh;
+    padding:10px 8%;
+    position: relative;
+    background-color: var(--primary);
+}
+/* Hero Section end */
+
+/*  Navbar start  */
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 40px 8%;
+    display: flex;
+    align-items: center;
+    z-index: 10;
+}
+
+nav img{
+   width: 70px;
+}
+
+nav ul{
+  flex: 1;
+  text-align: end;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 15px;
+    font-size: 18px;
+}
+
+nav a{
+    text-decoration: none;
+    color: var(--font-color);
+    transition: all 200ms ease-in;
+}
+
+nav a:hover{
+    color: var(--secondary);
+    font-weight: 700;
+}
+
+/*  Navbar end  */
+
+/* content start  */
+.content{
+    margin-top: 15%;
+    max-width: 450px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+h2 span{
+    color: var(--secondary);
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+
+.b1{
+    border: none;
+    background-color: var(--secondary);
+    color: var(--primary);
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    margin-right: 25px ;
+    text-align: center;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.b1:hover{
+    border: 2px solid var(--font-color);
+    background-color: transparent;
+    color: var(--font-color);
+    font-weight: 700;
+}
+
+
+.b2{
+    border: 2px solid var(--font-color);
+    background-color: transparent;
+    color: var(--font-color);
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+     transition: all 200ms ease-in;
+}    
+
+.b2:hover{
+    border: 2px solid var(--secondary);
+    background-color: transparent;
+    color: var(--secondary);
+    font-weight: 700;
+}
+
+/* content end  */
+
+/* feature-img start */
+.feature-img{
+    width: 500px;
+    position: absolute;
+    right: 15%;
+    top: 18%;
+    z-index: 2;
+}
+/* feature-img end */
+
+/* social start */
+.social{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+   
+}
+
+.social p{
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 50px;
+}
+
+.social a svg{
+   width: 24px;
+   height: 24px;
+   margin-left: 15px;
+}
+
+.social a svg path{
+    transition: all 200ms ease-in;
+}
+
+.social a svg path:hover{
+    fill: var(--secondary) ;
+}
+/* social end */
