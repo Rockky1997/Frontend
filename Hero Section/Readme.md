@@ -35,8 +35,11 @@
    ![layout grid](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/layout.png)
 
 # images used in Project
+   
+  | ![First Image Used](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img1.png)|
+   |:--:| 
+   |*Image 1*|
 
-    ![image used 1](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img1.png)
-    
-    ![image used 2](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img2.png)
-
+   |![Second Image Used](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img2.png)|
+   |:--:| 
+   |*Image 2*|
