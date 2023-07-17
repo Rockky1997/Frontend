@@ -5,7 +5,7 @@
 
  ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Travel.png) 
 
- [Design](www.behance.net/gallery/175432065/TOURS-OF-MUMBAI)
+ [Design](www.behance.net/gallery/175432065/TOURS-OF-MUMBAI)<br />
  [Hire me](https://fueler.io/ramc/bombay-dairies-tours-of-mumbai)
 
 ## color palettes
