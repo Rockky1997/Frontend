@@ -3,6 +3,8 @@
 ## project idea
    **Bombay Dairies**: Immerse yourself in the vibrant culture of India's financial capital as we take you on a captivating journey. Explore iconic landmarks, savour delicious street food, witness Bollywood magic, and dive into the bustling markets. Uncover the city's rich history and make unforgettable memories with Bombay Dairies' curated Mumbai tour experience.
 
+ ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+
 ## color palettes
    1. primary - #E2EBD0
    2. secondary - #CE2727
