@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;600&display=swap');
+
+:root{
+    --light-color : #e7e2e2;
+    --dark-color : #312a2a;
+    --li-color : #898d5c;
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+    background-color: var(--light-color);
+}
+
+/* Hero Section Start */
+
+.wrap{
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;  
+}
+
+/* Navbar Start */
+.navbar{
+    width: 80%;
+    height: 10vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    
+}
+
+.logo a {
+ text-decoration: none;
+ color: var(--dark-color);
+ 
+ letter-spacing: 4px;
+ margin: 25px;
+ font-size: 30px;
+}
+
+nav{
+    flex: 1;
+    padding-left: 300px;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0px 20px;
+}
+
+nav ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: var(--dark-color);
+    transition: all 200ms ease-in;
+}
+nav ul li a:hover{
+    font-size: 25px;
+    color: var(--li-color);
+   
+}
+/* Navbar End */
+
+/* Content Start */
+.content h1{
+    font-size: 100px;
+    font-weight: 600;
+    position: relative;
+    left: 50%;
+    top: 100px;
+    color: var(--dark-color);
+}
+
+.content h2{
+    position: relative;
+    font-weight: 300;
+    left: 49.5%;
+    top: 90px;
+    letter-spacing: 11px;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: var(--dark-color);
+}
+
+.content .btn{
+    display: inline-block;
+    position: relative;
+    border-radius: 35px;
+    padding: 11px 70px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: var(--light-color);
+    background-color: var(--dark-color);
+    right: -52%;
+    top: 140px;
+    font-size: 20px;
+    transition: all 200ms ease-in-out;
+}
+
+.content .btn:hover{
+    color: var(--dark-color);
+    background-color: transparent;
+    border: 2px solid var(--dark-color);
+}
+
+img.feature-img{
+    position: absolute;
+    top: 16%;
+    left: 120px;
+    width: 510px;
+}
+/* Content End */
+
+/* Social icon start */
+.social-icon{
+    display: flex;
+    position: absolute;
+    bottom: 17px;
+    left: 42%;
+    background-color: var(--light-color);
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.social-icon a{
+    text-decoration: none;
+}
+
+.social-icon a svg{
+    width: 24px;
+    height: 24px;
+    margin-left: 20px;
+}
+
+.social-icon a svg path{
+    transition: all 200ms ease-in-out;
+}
+
+.social-icon a svg path:hover{
+    fill: var(--li-color);
+}
+/* Social icon End */
+
+/* Hero Section end */
