@@ -4,50 +4,43 @@
    **Zephyr**: Zephyr is a leading retailer specializing in electric bikes and scooters. We offer a wide range of eco-friendly transportation solutions, from powerful electric bikes for urban commutes to convenient electric scooters for short trips. Embrace the future of sustainable mobility with Zephyr's premium electric vehicles.
    
 
- ![project]() 
+ ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Dark%20mode.png) 
+ ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/light%20mode.png)
 
  [Design](www.behance.net/gallery/175432065/TOURS-OF-MUMBAI)<br />
  [Hire me](https://fueler.io/ramc/bombay-dairies-tours-of-mumbai)
 
-## color palettes
- ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Travel.png) 
-   1. primary - #E2EBD0
-   2. secondary - #CE2727
-   3. font color - #1E1E1E
+## Layout, Color and Font
+ ![Layout, Color and Font](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Group%2027.png)
 
-## Fonts - 
-   1. Lato Regular 30px
-   2. Lato Bold 60px
-   3. Lato Regular 18px
+ ### Color
+   1. primary - #E7E2E2
+   2. secondary - #312A2A
+      
+### Fonts - 
+   1. Roboto Mono Regular 20px
+   2. Roboto Mono Regular 30px 
+   3. Roboto Mono Bold 100px
+   4. Roboto Mono Regular 20px
+-----    
 
 ## Headings
-   1. h2 - TOURS FROM MUMBAIKAR
-   2. h1 - MUMBAI HOLIDAYS 
-
-## paragraph
-   If you are looking at blank cassettes on the web
-   you be very confused at the difference in prince. 
-   You may see some for as low 
+   1. h2 - RIDE IN STYLE
+   2. h1 - Zephyr 
 
 ## Button title
-   1. b1 - Read more
-   2. b2 - Book Now
+  button - Reserve Now
 
-## Other title
-  Follow us on Social Media
-
-# Layout Grid
-   ![layout grid](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/layout.png)
 
 # images used in Project
    
-  | ![First Image Used](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img1.png)|
+  | ![First Image Used](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/light%20feature%20img.png)|
    |:--:| 
-   |*Image 1*|
+   |*Light Feature Image*|
 
-   |![Second Image Used](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/img2.png)|
+   |![Second Image Used](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Dark%20feature%20img.png)|
    |:--:| 
-   |*Image 2*|
+   |*Dark Feature Image*|
 
    
 
