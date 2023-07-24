@@ -7,8 +7,8 @@
  ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Dark%20mode.png) 
  ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/light%20mode.png)
 
- [Design](www.behance.net/gallery/175432065/TOURS-OF-MUMBAI)<br />
- [Hire me](https://fueler.io/ramc/bombay-dairies-tours-of-mumbai)
+ [Design](https://www.behance.net/gallery/175718863/Zephyr-that-sales-Electric-Bike-Scooters(Dummy-Proj))<br />
+ [Hire me](https://fueler.io/ramc/zephyr-electric-bike-and-scotty)
 
 ## Layout, Color and Font
  ![Layout, Color and Font](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Group%2027.png)
