@@ -6,8 +6,8 @@
 
  ![project](https://github.com/Rockky1997/Frontend/blob/main/asset%20for%20projects/presentation%20-%20pixway.png) 
 
- [Design](https://www.behance.net/gallery/175718863/Zephyr-that-sales-Electric-Bike-Scooters(Dummy-Proj))<br />
- [Hire me](https://fueler.io/ramc/zephyr-electric-bike-and-scotty)
+ [Design](https://www.behance.net/gallery/175810441/Pixway-(Dummy-Hero-Section-loyalty-free-digital-assets))<br />
+ [Hire me](https://fueler.io/ramc/pixway-dummy-hero-section-loyalty-free-digital-assets )
 
 ## Layout
  ![Layout](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/layout%20grid%20pixway.png)
