@@ -12,7 +12,7 @@
   |*Light Mode*|
 
  [Design](https://www.behance.net/gallery/175906109/Steve-Studio-(Dummy-project-For-portfolio-))<br />
- [Hire me](https://fueler.io/ramc/pixway-dummy-hero-section-loyalty-free-digital-assets )
+ [Hire me](https://fueler.io/ramc/steve-studio-artistic-approach)
 
 ## Layout
  ![Layout](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/layout%20grid%20-%20steve%20studio.png)
