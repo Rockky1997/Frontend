@@ -8,7 +8,7 @@
  ![project](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/light%20mode.png)
 
  [Design](https://www.behance.net/gallery/175718863/Zephyr-that-sales-Electric-Bike-Scooters(Dummy-Proj))<br />
- [Hire me](https://fueler.io/ramc/zephyr-electric-bike-and-scotty)
+ 
 
 ## Layout, Color and Font
  ![Layout, Color and Font](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/Group%2027.png)
@@ -50,5 +50,5 @@
    Follow me over [Twitter](https://twitter.com/ram_chakra1997)<br />
    connect me over [linkedin](https://www.linkedin.com/in/ramesh-chakraborty-ba40b6282/)<br />
    checkout me over [Github](https://github.com/Rockky1997)<br />
-   checkout/hire me over [Fueler](https://fueler.io/ramc)
+   
    
