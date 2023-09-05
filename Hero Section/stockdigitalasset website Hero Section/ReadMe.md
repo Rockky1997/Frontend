@@ -7,7 +7,7 @@
  ![project](https://github.com/Rockky1997/Frontend/blob/main/asset%20for%20projects/presentation%20-%20pixway.png) 
 
  [Design](https://www.behance.net/gallery/175810441/Pixway-(Dummy-Hero-Section-loyalty-free-digital-assets))<br />
- [Hire me](https://fueler.io/ramc/pixway-dummy-hero-section-loyalty-free-digital-assets )
+ 
 
 ## Layout
  ![Layout](https://raw.githubusercontent.com/Rockky1997/Frontend/main/asset%20for%20projects/layout%20grid%20pixway.png)
@@ -36,4 +36,3 @@
    Follow me over [Twitter](https://twitter.com/ram_chakra1997)<br />
    connect me over [linkedin](https://www.linkedin.com/in/ramesh-chakraborty-ba40b6282/)<br />
    checkout me over [Github](https://github.com/Rockky1997)<br />
-   checkout/hire me over [Fueler](https://fueler.io/ramc)
